@@ -24,7 +24,6 @@ public class ExpressionEvaluator {
 
     public static Double evaluate(String s)
     {
-        Exceptionss.exceptionsString(s);
 
         String[] sNiz=s.split(" ");
 
